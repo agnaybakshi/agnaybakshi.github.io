@@ -69,10 +69,6 @@ unsafe = true
     weight = 2
     url = "post/"
     [[menu.main]]
-    name = "Open-Source"
-    weight = 2
-    url = "opensource/"
-    [[menu.main]]
     name = "Supervised"
     weight = 2
     url = "supervised/"
@@ -81,9 +77,9 @@ unsafe = true
     weight = 3
     url = "cv/"
     [[menu.main]]
-    name = "ChatBot"
-    weight = 4
-    url = "chatbot/"
+    name = "BAKShI"
+    weight = 3
+    url = "bakshi/"
 
     
 
