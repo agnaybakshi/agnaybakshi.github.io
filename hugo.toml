@@ -19,6 +19,7 @@ unsafe = true
     keywords = "Blog,developer,personal"
     avatarurl = "https://avatars.githubusercontent.com/u/71760372?s=400&u=86813cd3b3ad0c3994cb6b7a2d8f43eba5e3b9d4&v=4"
 
+
     since = 2023
 
     enableTwemoji = true
@@ -36,7 +37,7 @@ unsafe = true
     tag = "EDA,Analysis,GameJam,GameDev,Unity,Python,C#"
     author = "authors"
 
-    #Social links
+     #Social links
     [[params.social]]
     name = "Email"
     icon = "fa fa-envelope fa-2x"
@@ -79,6 +80,10 @@ unsafe = true
     name = "CV"
     weight = 3
     url = "cv/"
-    
+    [[menu.main]]
+    name = "ChatBot"
+    weight = 4
+    url = "chatbot/"
 
     
+
