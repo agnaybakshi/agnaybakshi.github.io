@@ -76,10 +76,7 @@ unsafe = true
     name = "CV"
     weight = 3
     url = "cv/"
-    [[menu.main]]
-    name = "BAKShI"
-    weight = 3
-    url = "bakshi/"
+    
 
     
 
