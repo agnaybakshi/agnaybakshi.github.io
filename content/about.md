@@ -1,6 +1,6 @@
 ---
 title: "About me 👨🏻‍💻"
-paragraph:"I am a third-year Mechatronics Engineering student with a
+pg: "I am a third-year Mechatronics Engineering student with a
 strong passion for robotics and the integration of
 mechanical and electrical engineering disciplines. My
 curiosity drives me to understand the mechanics behind
